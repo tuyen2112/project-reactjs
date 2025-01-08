@@ -1,6 +1,6 @@
 import React from 'react'
 
-const DemoChildrenfunc = (props) => {
+const btap = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const DemoChildrenfunc = (props) => {
   )
 }
 
-export default 
+export default btap
