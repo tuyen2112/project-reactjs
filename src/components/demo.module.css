@@ -1,0 +1,13 @@
+.container{
+    background-color: aqua;
+    align-items:center;
+    padding: 30px;
+    width: 100px;
+    height: 100px;
+    color: blue;
+}
+
+#class{
+    background-color: blue;
+    color: red;
+}
